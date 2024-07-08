@@ -9,8 +9,8 @@ Các chức năng chính :
 # Main code : Done
 # Các câu lệnh hay dùng :  
 composer create-project laravel/laravel mau "8"  
-- Bỏ "8" thì mặc định phiên bản mới nhất , vào thư mục public
+- Bỏ "8" thì mặc định phiên bản mới nhất , vào thư mục public.
 php -S localhost:8080 or ra ngoài thư mục chạy php artisan serve
-
+a.
   
 								
