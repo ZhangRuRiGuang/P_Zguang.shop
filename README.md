@@ -7,10 +7,7 @@ Các chức năng chính :
 - Trang nhân viên gồm các chức năng: Quản lý bình luận
 # Báo cáo + Slide : Done   
 # Main code : Done
-# Các câu lệnh hay dùng :  
-1. composer create-project laravel/laravel mau "8"  
-- Bỏ "8" thì mặc định phiên bản mới nhất , vào thư mục public.
-2. php -S localhost:8080 or ra ngoài thư mục chạy php artisan serve
+
   
   
 								
